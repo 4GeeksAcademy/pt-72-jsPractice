@@ -4,6 +4,7 @@ import "./style.css";
 
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
+import "./assets/img/test.png";
 
 window.onload = function() {
   document.querySelector("#default").addEventListener("click", function() {
